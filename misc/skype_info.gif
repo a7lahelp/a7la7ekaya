@@ -1,0 +1,10 @@
+                                   Processing REGISTERDLLS section [igfx_RegisterDLLs]. Module: '%11%\igdumdx32.dll', flags: 0x0001, timeout: 300s, Arguments: '(null)'.
+!!!  inf:                                    Exported function 'DllRegisterServer' in OLE Control 'C:\Windows\system32\igdumdx32.dll' not found.
+!!!  inf:                                    Error 127: The specified procedure could not be found.
+!!!  inf:                                    Failed to register OLE server 'C:\Windows\system32\igdumdx32.dll'.
+!!!  inf:                                    Error 127: The specified procedure could not be found.
+     inf:                                    11,,hccutils.dll,1  (igdlh.inf line 393)
+     inf:                                    Processing REGISTERDLLS section [igfx_RegisterDLLs]. Module: '%11%\hccutils.dll', flags: 0x0001, timeout: 300s, Arguments: '(null)'.
+!!!  inf:                                    Calling 'DllRegisterServer' in OLE Control 'C:\Windows\system32\hccutils.dll' failed.
+!!!  inf:                                    Error 0x80029c4a: Error loading type library/DLL.
+!!!  inf:                                    Failed to register OLE server 'C:\Windows\system32\hccutils.dll'.
