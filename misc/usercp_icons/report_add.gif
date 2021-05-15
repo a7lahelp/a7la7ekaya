@@ -1,0 +1,19 @@
+<Update
+	Date="13042015 1152"
+	BlstDate="13042015 0634"
+	CompID="KFPE"
+	ObjectType="2=KFPE;3=BASE"
+	Format="2.0"
+	DiffsPath="@ServerPath@\diffs"
+	LocalPath="%BaseFolder%">
+	<Files
+		App="KSM 15"
+		Item="DSKM;Name"
+		List="G/gilIkrLurhOX0R/QAcSTh/gSaL67l/8ERl1x1Yqhk=|kfpe_configuration.xms" />
+	<Files
+		App="KAV|KIS|KSM|PURE|KSOSPC|KSOSFS|KISMAC 15"
+		Item="DSKM;Name"
+		List="kgtum/qT419DVwNevFBWrGwO8T0DVZDchNoIvOJ3B5I=|sbank.xms" />
+	<Key
+		LocalPath="%DSKM%"
+		Name="kfpe-1313g.pbv">S0xyZwH6/39LTHN3AACtrQEAAAD8AwAAAwAAFgEBAAAJAXw3HipAAFrPGj3w0EpLFftb/T/eWme8LDPXsKrPbqYz5awIYNvkAJ3B14BJopW9DS7ZOXu5PA2H4Kr25u54ry54S

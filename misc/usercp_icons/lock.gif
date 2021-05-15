@@ -1,0 +1,19 @@
+[main]
+name=Alyac Antivirus
+detect-registry=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ALYac_is1
+env-registry=HKEY_LOCAL_MACHINE\SOFTWARE\ESTsoft\ALYac\RootDir->RootPath
+env-registry=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\ALYac_is1\Inno Setup: Icon Group->Kal
+env-registry=HKEY_CLASSES_ROOT\*\shellex\ContextMenuHandlers\ALYac\InprocServer32->ShellDll
+fullname=Alyac Antivirus x64#809439
+type=uninstall
+os=all
+x64=true
+[ak]
+ak_use=true
+
+[data]
+Ojjj1LQIDOUlUlj!DGDJDOU0DQQ!jjjj1LUlDQUoUDDGDlDQl!0O0iQGDODlQjQQilIIU1D0Qlj1oiU0lol1JUjC1JQoQ01j11JCjJ1LU1UoDjJGi1GQj!JUQG!ojiJj
+jC1L!Lj1jC1LQlDlDODJJ1jUDJICJJjC1L0ODUDQDJU0IijC0QQIUoQUOjDQD!DjUDl!jCO1i1jioGjCOl1LD0UoDGjJj!!1Uol!0QUlU0Q1UoDljojC1LQoU0UU0GjO
+Jl0D00!j1LDDDjDiD0JioQilJlQoDjDj!iDOU0DCoQGGDQjUJOUCDQDlUQ!QjoUoUQDJl!CiDUUlljjiUDUollloo1ojUQj!Ulo1oooQQl1jJlDCDQDiDi00j!oQoo!Q
+Ull1UiDlLiU1U0!D0jDJo10QUolCUiQ1Uoo1Qo0JUQD!DQo10Ji1ljIi0j00DGD!o1QUUlDCUjlCiJoio1DDUlDjjIDjDoDLC0il!!DUJQDlDjDJUGo1UjjC0C0I0QQG
+Qj0i0j0l0IQj0!0

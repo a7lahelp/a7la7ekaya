@@ -1,0 +1,16 @@
+[main]
+name=Nortel Networks Contivity VPN Client
+fullname=Nortel Networks Contivity VPN Client 5.0.1#870551
+detect-registry=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{EF964A78-078C-11D1-B7A7-0000C0134CE6}
+type=uninstall
+os=xp32
+uninstallmode=custom
+
+env-registry=HKEY_LOCAL_MACHINE\SOFTWARE\Nortel Networks\Extranet Access Client\ProductFolder->ProductFolder
+env-registry=HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\explorer\Shell Folders\Common Programs->AllStartMenu
+env-registry=HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Shell Folders\Common Desktop->AllDesktopFolder
+
+[data]
+ljji1LQIDODIQ!1LjiQjUQUlDQl!CjJlU0UoUQDQ1LJJUlUlj!DG1UjCDJDOU0DQJQjOUoDQD!DjjCjjUDjDDDDjDiD0DQUol!oQQ1UoDjijilD0UQDlU00DjOoQ1LJO
+DUJOjjDGUliDUGl!0C0I0QQGQj0i0j0ljjjj0O0iQj0!0O0l0C0G0J0QQiQl0j0DQ0QUJOj10OQojU0JDjUoIlDio10JilOJDQU0UUjDDIUliIjCoQ0!DGDlUJjCGQUl
+DjDDU0QiQUUlD0DjUUUlCU1lQi0lUQUoiDDJU0QDCCUiC1DODjDJQiQQDJJCILjjljDODiDiQiUI0Q0DlGlDl00OlUlCo!l1ji1Uji0lo!lO
